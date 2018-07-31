@@ -2,10 +2,10 @@ import tweepy
 import time
 
 # START OF USER VARIABLES
-consumer_key = "bpOU4qrEUAolWVCdbRLF36EFr"
-consumer_secret = "dN9HMmGFHDS5dkzDBsF961SEtgWCMMDZJJgeh2oEdooDsJqtqw"
-access_token = "4866870394-cNAQByApG1AqBkTNPJDLIKlfI1unFOmsbg60kBi"
-access_token_secret = "rrdeqXifmHN4KVgLwOh4IEOZqUda9BtG2I9b0gpYCl6Qe"
+consumer_key = "FILL"
+consumer_secret = "FILL"
+access_token = "FILL"
+access_token_secret = "FILL"
 keywords = [""]
 
 #END OF USER VARIABLES
